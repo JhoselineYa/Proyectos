@@ -1,0 +1,7 @@
+C:\Users\pjonn\OneDrive\Documents\Console\Persona_Jhoseline_Grijalva\bin\Debug\Persona_Jhoseline_Grijalva.exe.config
+C:\Users\pjonn\OneDrive\Documents\Console\Persona_Jhoseline_Grijalva\bin\Debug\Persona_Jhoseline_Grijalva.exe
+C:\Users\pjonn\OneDrive\Documents\Console\Persona_Jhoseline_Grijalva\bin\Debug\Persona_Jhoseline_Grijalva.pdb
+C:\Users\pjonn\OneDrive\Documents\Console\Persona_Jhoseline_Grijalva\obj\Debug\Persona_Jhoseline_Grijalva.csproj.AssemblyReference.cache
+C:\Users\pjonn\OneDrive\Documents\Console\Persona_Jhoseline_Grijalva\obj\Debug\Persona_Jhoseline_Grijalva.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\OneDrive\Documents\Console\Persona_Jhoseline_Grijalva\obj\Debug\Persona_Jhoseline_Grijalva.exe
+C:\Users\pjonn\OneDrive\Documents\Console\Persona_Jhoseline_Grijalva\obj\Debug\Persona_Jhoseline_Grijalva.pdb
